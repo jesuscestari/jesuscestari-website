@@ -19,7 +19,7 @@ body {
 .highl2 {
   color: #b3702c !important;
   font-size: 3em;
-  margin-top: 130px;
+  margin-top: 90px;
 }
 
 @media (max-width: 30em) {
@@ -50,7 +50,7 @@ body {
   margin-top: 30px;
   width: 300px !important;
   border: 3px solid #744d29;
-  background-color: #f2dec5;
+  background-color: #f8e6d0;
   border-radius: 35%;
 }
 
@@ -275,7 +275,7 @@ a {
 .btn2:focus {
   background: var(--gradient) !important;
   -webkit-background-clip: none !important;
-  -webkit-text-fill-color: #fff !important;
+ 
   border: 5px solid #fff !important;
   box-shadow: #222 1px 0 10px;
   text-decoration: underline;
@@ -297,10 +297,11 @@ a {
 .btn4:focus {
   background: var(--gradient) !important;
   -webkit-background-clip: none !important;
-  -webkit-text-fill-color: #fff !important;
+ 
   border: 5px solid #fff !important;
   box-shadow: #222 1px 0 10px;
   text-decoration: underline;
+  
 }
 
 .card-title {
@@ -319,4 +320,5 @@ a {
 .workT {
   margin-bottom: -50px !important;
 }
+
 
