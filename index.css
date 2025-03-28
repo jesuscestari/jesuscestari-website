@@ -250,6 +250,8 @@ a {
   color: black;
   margin-bottom: 2rem;
   width: 25rem;
+  
+  
 }
 
 @media (max-width: 30em) {
@@ -306,7 +308,8 @@ a {
 
 .card-title {
   color: #5c340f !important;
-  font-size: 0.9em;
+  font-size: 1em;
+  font-weight: 500;
 }
 .card-text {
   font-size: 0.8em;
@@ -322,3 +325,10 @@ a {
 }
 
 
+.card-body{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
